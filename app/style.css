@@ -1,0 +1,27 @@
+
+/*
+* File: style.css
+* Author: Markó Kevin
+* Copyright: 2024, Markó Kevin
+* Group: Szoft I-2-N
+* Date: 2024-05-30
+* Github: https://github.com/MKewin05
+* Licenc: GNU GPL
+*/
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: beige;
+}
+
+.container {
+    padding: 10px;
+}
+h1 {
+    background-color: #deb887;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+}
+
